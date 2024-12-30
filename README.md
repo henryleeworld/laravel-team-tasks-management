@@ -36,8 +36,8 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/Owsc5vN.png)
+![](https://i.imgur.com/4QDykGn.png)
 > 任務代表可採取行動的步驟或待辦事項，以明確人、事、時，但它們也可以代表構想和參考項目
 
-![](https://i.imgur.com/E2atD6I.png)
+![](https://i.imgur.com/Dq5RwVv.png)
 > 任務清單可化身重要的商務工具，以確保團隊恪守期限
