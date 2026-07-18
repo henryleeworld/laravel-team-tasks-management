@@ -1,4 +1,4 @@
-# Laravel 11 團隊任務管理
+# Laravel 12 團隊任務管理
 
 在一處位置可視化您的所有團隊任務，確保無一遺漏，讓您與團隊成員保持同步，不必再等待另行安排的會議、交流了。
 
@@ -36,8 +36,8 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/4QDykGn.png)
+![](https://i.imgur.com/XTmH5ha.png)
 > 任務代表可採取行動的步驟或待辦事項，以明確人、事、時，但它們也可以代表構想和參考項目
 
-![](https://i.imgur.com/Dq5RwVv.png)
+![](https://i.imgur.com/3BDyvnh.png)
 > 任務清單可化身重要的商務工具，以確保團隊恪守期限
